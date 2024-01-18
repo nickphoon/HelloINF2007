@@ -35,7 +35,7 @@ class MainActivity : ComponentActivity() {
                 ) {
                     Column{
                         Greeting("INF2007")
-                        FROM("Michael")
+                        FROM("Mike Hawk")
                     }
 
                 }
